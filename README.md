@@ -1,4 +1,3 @@
-![CI](https://github.com/stuycs-k/AP1L04-T/actions/workflows/ci.yml/badge.svg)
 
 # APCS Triangle Lab
 
