@@ -1,7 +1,7 @@
 
 # APCS Triangle Lab
 
-Read the description of the constructors and methods. You must follow the directions, especially when it says to make new instances...
+Read the description of the constructors and methods. You must follow the directions, especially when it says to make new instances of objects (hint for 2nd constructor)
 
 ## Constructors
 
