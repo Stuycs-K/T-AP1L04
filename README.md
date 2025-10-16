@@ -1,6 +1,8 @@
 
 # APCS Triangle Lab
 
+Read the description of the constructors and methods. You must follow the directions, especially when it says to make new instances...
+
 ## Constructors
 
 1. ```Triangle( double x0, double y0, double x1, double y1, double x2, double y2)```
