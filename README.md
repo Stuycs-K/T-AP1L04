@@ -9,7 +9,7 @@ The constructor that takes six doubles requires that you create Points from the 
 
 ### Triangle( Point v0,Point v1,Point v2)
 
-The constructor that takes three Points. You are required to make new instances of those Points to initialize the triangle.
+The constructor that takes three Points. You are required to make *new instances* of those Points to initialize the triangle.
 
 
 ## Accessor Methods
