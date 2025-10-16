@@ -14,11 +14,11 @@ The constructor that takes three Points. You are required to make *new instances
 
 ## Accessor Methods
 
-### Point getVertex(int v)
+```Point getVertex(int v)```
 
 This method takes an int that is: 0,1,2 and returns the corresponding vertex( v0/v1/v2 ). You may assume v is 0,1,or 2.
 
-### String toString()
+```String toString()```
 
 This will return a string in the format `"{v0, v1, v2}"` where you replace v0/v1/v2 with the toString of the Point object
 
