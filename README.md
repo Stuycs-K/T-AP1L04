@@ -3,22 +3,22 @@
 
 ## Constructors
 
-### Triangle( double x0, double y0, double x1, double y1, double x2, double y2)
+1. ```Triangle( double x0, double y0, double x1, double y1, double x2, double y2)```
 
 The constructor that takes six doubles requires that you create Points from the doubles to initialize the triangle.
 
-### Triangle( Point v0,Point v1,Point v2)
+2. ```Triangle( Point v0,Point v1,Point v2)```
 
 The constructor that takes three Points. You are required to make *new instances* of those Points to initialize the triangle.
 
 
 ## Accessor Methods
 
-```Point getVertex(int v)```
+3. ```Point getVertex(int v)```
 
 This method takes an int that is: 0,1,2 and returns the corresponding vertex( v0/v1/v2 ). You may assume v is 0,1,or 2.
 
-```String toString()```
+4. ```String toString()```
 
 This will return a string in the format `"{v0, v1, v2}"` where you replace v0/v1/v2 with the toString of the Point object
 
@@ -28,12 +28,13 @@ e.g.
 
 Notice you can use your point toString here
 
-### double getPerimeter()
+5. ```double getPerimeter()```
+
 Return a double that is the perimeter of the Triangle
 
 ## Mutator Methods
 
-### void setVertex(int v,Point p)
+6. ```void setVertex(int v,Point p)```
 
 This method takes an int that is: 0,1,2 and a Point object. It replaces the corresponding vertex( v0/v1/v2 ) with the specified Point. You may assume v is 0,1,or 2.
 
